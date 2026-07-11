@@ -20,7 +20,7 @@ This includes:
 * P2P multiplayer
 
 ### Open source SDK and modding tools
-All projects relating to this org is and always will be open source and fully transparent with users.
+All projects relating to this org are and always will be open source and fully transparent with users.
 
 ---
 
